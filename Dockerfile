@@ -1,4 +1,4 @@
-FROM openjdk:17-jdk-slim as build
+FROM eclipse-temurin:17-jdk-jammy as build
 WORKDIR /app
 COPY . .
 RUN ./gradlew clean build -x test
