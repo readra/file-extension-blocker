@@ -51,7 +51,7 @@
 
 ### Swagger UI
 애플리케이션 실행 후 아래 URL에서 API 문서를 확인할 수 있습니다:
-- http://localhost:8080/swagger-ui.html
+- https://file-extension-blocker-41f3.onrender.com/swagger-ui.html
 
 ### 주요 API Endpoints
 
@@ -90,9 +90,11 @@ cd file-extension-blocker
 ```
 
 ### 3. 접속
-- 웹 UI: http://localhost:8080
-- API 문서: http://localhost:8080/swagger-ui.html
-- H2 Console: http://localhost:8080/h2-console`
+- 웹 UI: https://file-extension-blocker-41f3.onrender.com
+- API 문서: https://file-extension-blocker-41f3.onrender.com/swagger-ui.html
+
+> [!Note]
+> Render에 배포된 Free Tier 웹 서비스로 반응 속도가 다소 느릴 수 있습니다. 
 
 ## 테스트
 
