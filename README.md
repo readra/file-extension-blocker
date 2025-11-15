@@ -42,6 +42,7 @@
 
 ### DevOps & Tools
 - **Gradle**
+- **Docker** (배포)
 - **Swagger/OpenAPI 3.0**
 - **Spring Cache**
 - **Spring AOP** (로깅)
