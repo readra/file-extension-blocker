@@ -39,7 +39,7 @@ dependencies {
     annotationProcessor 'org.projectlombok:lombok'
 
     // Database
-    runtimeOnly 'mysql:mysql-connector-java:8.0.33'
+    runtimeOnly 'org.postgresql:postgresql'
 
     // Test
     testImplementation 'org.springframework.boot:spring-boot-starter-test'

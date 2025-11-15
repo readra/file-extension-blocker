@@ -33,7 +33,7 @@
 - **Java 17**
 - **Spring Boot 3.5.7**
 - **Spring Data JPA**
-- **MySQL**
+- **PostgreSQL**
 
 ### Frontend
 - **Thymeleaf**
